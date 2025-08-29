@@ -26,25 +26,8 @@ Sistema desenvolvido para gerenciamento de dados de funcionários, permitindo o 
 
 ### Clonando o Repositório
 ```bash
-git clone https://github.com/seu-usuario/sistema-gerenciamento-funcionarios.git
-cd sistema-gerenciamento-funcionarios
+git clone https://https://github.com/pehennu/iniflex.git
 ```
-
-### Compilando o Projeto
-```bash
-mvn clean install
-```
-
-### Executando a Aplicação
-```bash
-mvn exec:java -Dexec.mainClass="com.br.industria.Main"
-```
-
-### Executando os Testes
-```bash
-mvn test
-```
-
 ## Documentação da API
 
 ### Classe Funcionario
